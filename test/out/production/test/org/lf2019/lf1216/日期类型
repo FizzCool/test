@@ -1,0 +1,27 @@
+Date类
+ Date 表示特定的瞬间，精确到毫秒。
+ JDK表示时间类型的类
+ getTime(),setTime()
+ 大部分内容已过时，但由于早期JDK版本就存在，个别内容还在延用。
+
+DateFormat类（日期格式化工具抽象类）
+ DateFormat 是日期/时间格式化子类的抽象类。
+ 方法
+    string format()将一个Date格式化为日期/时间字符串
+
+SimpleDateFormat类
+ SimpleDateFormat 是一个以与语言环境有关的方式来格式化和解析日期的具体类。
+ 它可以实现日期和文本的相互转换
+ 方法
+    1.simpleDateFormat(String pattern) 用给定的模式构造 SimpleDateFormat
+    2.Date parse(String) 按照当前的模式解析字符串的文本，生成 Date
+
+Calendar类
+Calendar 是一个完备的日历类，是一个抽象类，对日期的各个字段进行了拆分，为更灵活的操作提供了相应的方法。
+Calendar.getInstance() 获取一个Calendar的子类的实例
+get(fild) 获取日期某个字段的值，参数为Calendar类常量字段
+set()设置日期字段的值
+
+
+
+

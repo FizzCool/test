@@ -1,0 +1,5 @@
+Collections
+ 看上去就和Arrays很像,是集合的工具类
+
+ sort(List<T> list)
+ binarySearch()

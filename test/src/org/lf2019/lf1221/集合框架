@@ -1,0 +1,19 @@
+集合
+ 1.由来：java为了满足对象的存储需求而提供的一种容器
+ 2.数组和集合的区别：
+   A：长度区别
+      #数组长度固定，集合长度可变
+   B：内容不同
+      #数组存储的是同一种类型的元素
+      #集合可以存储不同类型的元素
+   C：元素数据类型问题
+      #数组可以存储基本数据类型也可以存储引用数据类型
+      #集合只能存储引用类型
+ 3.Collection（集合的顶层接口）
+   功能概述：
+            1.添加功能: add()       addAll(collection c)
+            2.删除功能: remove()    removeAll(collection c)    clear()清除所有元素
+            3.修改功能:             retainAll(collection c) 取并集
+            4.获取功能: contains()  containsAll(collection c)
+            5.长度功能: size()
+

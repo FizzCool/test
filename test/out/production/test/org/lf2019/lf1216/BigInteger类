@@ -1,0 +1,4 @@
+BigInteger类和BigDecimal类
+一般应用于金融相关的项目中
+用范围更大的BigInteger替代Integer
+用优化过的BigDecimal操作替代本身存在精度问题的浮点型的运算操作

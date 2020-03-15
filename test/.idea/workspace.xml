@@ -1,7 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9dc6dc3-8fd2-4c0a-99a2-4e557fcf9922" name="Default" comment="" />
+    <list default="true" id="d9dc6dc3-8fd2-4c0a-99a2-4e557fcf9922" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ftp.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/Content.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/Fan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/Fun.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/JDK5新特性" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/RandomTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/sdf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f02/sortTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/SetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/TreeMapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/TreeSetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/mapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f03/集合框架-Set" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/GetRandomTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/HashMapDemo0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/MapDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/MapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/TreeMapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/TreeSetReviewTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f06/集合框架-map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f07/Application1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f08/ClassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f08/MapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f08/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f09/HHaassDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f09/集合框架-后期知识点" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f10/Collections类" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f10/SortDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f15/Exception" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f15/ExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f16/ExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f16/异常处理2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m1/f17/qwe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f06/Filel类的学习" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f06/IODemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f06/IODemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f06/IODemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo7_1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/JieChengDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f07/递归.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f08/IODemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f08/IO流.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f10/ByteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f10/IO类的学习-字节输入流" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f11/BufferedIOStreamDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f11/FileInputStreamTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f11/IO流的学习-字节缓冲输入输出流.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/BuffererCharDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/CopyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/CopyDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/CopyDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/IO-字节流的学习" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/ISRDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/InputStreamReaderDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f17/zijeiliu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f18/CopyDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f18/CopyDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f18/IODemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f18/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Demo7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/IO其他流的学习" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/MyBufferedReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/MyLineNumberReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/MyLineNumberReader2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f19/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f20/ProertiesDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f20/Properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f20/PropertiesDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f20/PropertiesDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f21/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f21/ThreadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f21/多线程.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m2/f24/多线程-2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyRunnableTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyThreadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/Thread01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/Thread01Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/MyCallable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/PersonalTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/Producer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/ST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/SaleTicket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d02/ThreadPoolTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d03/MyTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d03/TimerDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d03/设计模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d04/GUI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d04/GUIDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d04/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d05/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d06/UIDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d06/UIDemo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d07/ErrorManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d07/ExeManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d07/InfoManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d07/RTDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d07/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d07/test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d11/InetAddressDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d11/网络编程.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d12/UDPReceive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d12/UDPSend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d13/Recever.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d13/Sender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/lf2020/m3/d13/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/Activity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/BGJ.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/Index.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/Role.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/Skill.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/StatusBoard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/TheFirstGame/SunWuKong.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/Content.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/Fan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/Fun.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/JDK5新特性" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/RandomTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/sdf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f02/sortTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/Role.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/SetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/TreeMapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/TreeSetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/mapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f03/集合框架-Set" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/GetRandomTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/HashMapDemo0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/MapDemo1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/MapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/TreeMapDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/TreeSetReviewTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/TreeSetReviewTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f06/集合框架-map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f07/Application1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f08/ClassDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f08/MapDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f08/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f09/HHaassDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f09/集合框架-后期知识点" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f10/Collections类" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f10/SortDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f15/Exception" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test/org/lf2020/January/f15/ExceptionDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/Activity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/BGJ.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/Index.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/Role.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/Skill.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/StatusBoard.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TheFirstGame/SunWuKong.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/Content.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/Fan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/Fun.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/JDK5新特性" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/RandomTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/sdf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f02/sortTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/Role.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/SetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/Student.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/TreeMapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/TreeSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/mapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f03/集合框架-Set" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/GetRandomTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/HashMapDemo0.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/MapDemo1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/MapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/TreeMapDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/TreeSetReviewTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f06/集合框架-map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f07/Application1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f08/ClassDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f08/MapDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f08/Student.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f09/HHaassDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f09/集合框架-后期知识点" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f10/Collections类" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f10/SortDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f15/Exception" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f15/ExceptionDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f16/ExceptionDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/lf2020/January/f16/异常处理2" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test/org/lf2019/lf1222/JDBCTEST.class" afterPath="$PROJECT_DIR$/out/production/test/org/lf2019/lf1222/JDBCTEST.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test/org/lf2019/lf1230/集合框架-List" afterPath="$PROJECT_DIR$/out/production/test/org/lf2019/lf1230/集合框架-List" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/lf2019/lf1222/JDBCTEST.java" afterPath="$PROJECT_DIR$/src/org/lf2019/lf1222/JDBCTEST.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/lf2019/lf1230/集合框架-List" afterPath="$PROJECT_DIR$/src/org/lf2019/lf1230/集合框架-List" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,43 +244,34 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HHaassDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f09/HHaassDemo.java">
+      <file leaf-file-name="网络编程.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d11/网络编程.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="11" column="93" lean-forward="false" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+            <state relative-caret-position="1593">
+              <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="集合框架-后期知识点" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f09/集合框架-后期知识点">
+      <file leaf-file-name="Recever.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d13/Recever.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collections类" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f10/Collections类">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f10/SortDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="594">
+              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,62 +279,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f15/ExceptionDemo.java">
+      <file leaf-file-name="Sender.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d13/Sender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exception" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f15/Exception">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="异常处理2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f16/异常处理2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f16/ExceptionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="集合框架" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1221/集合框架">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="日期类型" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1216/日期类型">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,6 +315,10 @@
       <dir>D:\ProgramFiles\test\src</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -149,57 +327,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/lf1226/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf1230/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf1230/集合框架-List" />
-        <option value="$PROJECT_DIR$/src/org/lf1230/ListquchongTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf1226/集合框架3-List" />
-        <option value="$PROJECT_DIR$/src/org/lf1231/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf1231/StackTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf1231/Stack.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2019/lf1231/Stack.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2019/lf1231/StackTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/Content.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/sdf.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/Fan.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/Fun.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/Test.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/泛型" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/RandomTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/sortTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/Student.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/Role.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/SetTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/TreeMapTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/Person.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/TreeSetTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f02/JDK5新特性" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/TreeSetReviewTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f03/集合框架-Set" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/GetRandomTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/MapDemo1.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/HashMapDemo0.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/TreeMap.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/TreeMapDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/Person.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f06/集合框架-map" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f0107.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f0107/Application1.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f0107/Application2.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f07/Application1.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f08/MapDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f08/ClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f08/Student.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f09/HHaassDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f09/集合框架-后期知识点" />
-        <option value="$PROJECT_DIR$/src/org/lf2019/lf1226/集合框架3-List" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f09/Collections类" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f10/SortDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f10/Collections类" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/ExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f15/ExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/lf2020/January/f15/Exception" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/bFebruary/f21/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/bFebruary/f21/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/bFebruary/f24/多线程-2" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/bFebruary/f21/多线程.txt" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/Thread01.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/Thread01Test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyRunnableTest.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1Test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m1/f15/Exception" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo2Test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo2.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m2/f19/IO其他流的学习" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m2/f19/Person.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/PersonalTest.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/ST.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/Producter.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/Producer.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/Test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/Student.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d03/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d03/TimerDemo1.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m2/f21/多线程.txt" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d04/Student.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d03/设计模式" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d04/GUIDemo1.java" />
+        <option value="$PROJECT_DIR$/test.bat" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d06/UIDemo1.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d06/UIDemo2.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d04/GUI" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d05/Test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d02/SaleTicket.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d07/ErrorManager.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d07/InfoManager.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d07/test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d07/ExeManager.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d07/test2.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d07/RTDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d11/InetAddressDemo1.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d11/网络编程.txt" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d12/UDPSend.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d12/UDPReceive.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d13/Test.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d13/Recever.java" />
+        <option value="$PROJECT_DIR$/src/org/lf2020/m3/d13/Sender.java" />
       </list>
     </option>
   </component>
@@ -208,6 +386,11 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -219,11 +402,33 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="1" />
+    <option name="x" value="-7" />
     <option name="width" value="1380" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -246,51 +451,25 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="lf2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="lf2020" type="462c0819:PsiDirectoryNode" />
-              <item name="January" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../Node.js/node" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="extract.method.default.visibility" value="private" />
@@ -303,11 +482,11 @@
       <recent name="D:\ProgramFiles\test\src\javafx\jfx1207\java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\test\test" />
       <recent name="D:\ProgramFiles\test\lib" />
       <recent name="D:\ProgramFiles\test\src\javafx\jfx1207\java" />
       <recent name="D:\ProgramFiles\test\src\javafx\jfx1207\Test" />
       <recent name="D:\ProgramFiles\test\src\javafx\jfx1207" />
-      <recent name="D:\ProgramFiles\test\src\org\lf1125" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.lf1014" />
@@ -325,15 +504,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionDemo">
-    <configuration name="Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Sender">
+    <configuration name="Recever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.lf2020.January.f07.*" />
+          <option name="PATTERN" value="org.lf2020.m3.d13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.lf2020.January.f07.Application1" />
+      <option name="MAIN_CLASS_NAME" value="org.lf2020.m3.d13.Recever" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -345,14 +524,14 @@
       <module name="test" />
       <envs />
     </configuration>
-    <configuration name="ClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Sender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.lf2020.January.f08.*" />
+          <option name="PATTERN" value="org.lf2020.m3.d13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.lf2020.January.f08.ClassDemo" />
+      <option name="MAIN_CLASS_NAME" value="org.lf2020.m3.d13.Sender" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -364,14 +543,14 @@
       <module name="test" />
       <envs />
     </configuration>
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.lf2020.January.f15.*" />
+          <option name="PATTERN" value="org.lf2020.m3.d13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.lf2020.January.f15.ExceptionDemo" />
+      <option name="MAIN_CLASS_NAME" value="org.lf2020.m3.d13.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -383,14 +562,14 @@
       <module name="test" />
       <envs />
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UDPReceive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.lf2020.January.f08.*" />
+          <option name="PATTERN" value="org.lf2020.m3.d12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.lf2020.January.f08.MapDemo" />
+      <option name="MAIN_CLASS_NAME" value="org.lf2020.m3.d12.UDPReceive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,14 +581,14 @@
       <module name="test" />
       <envs />
     </configuration>
-    <configuration name="SortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UDPSend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.lf2020.January.f10.*" />
+          <option name="PATTERN" value="org.lf2020.m3.d12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.lf2020.January.f10.SortDemo" />
+      <option name="MAIN_CLASS_NAME" value="org.lf2020.m3.d12.UDPSend" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -528,19 +707,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Application1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MapDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ClassDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SortDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ExceptionDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UDPReceive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UDPSend" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Recever" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Sender" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ExceptionDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SortDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ClassDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MapDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Application1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Sender" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Recever" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UDPSend" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UDPReceive" />
       </list>
     </recent_temporary>
   </component>
@@ -625,12 +804,41 @@
       <workItem from="1578542888411" duration="9284000" />
       <workItem from="1578807730796" duration="116000" />
       <workItem from="1579060957901" duration="10347000" />
-      <workItem from="1579231138666" duration="450000" />
+      <workItem from="1579231138666" duration="2510000" />
+      <workItem from="1580869470512" duration="1185000" />
+      <workItem from="1580974319426" duration="9625000" />
+      <workItem from="1581043607329" duration="3110000" />
+      <workItem from="1581048337915" duration="7153000" />
+      <workItem from="1581135366066" duration="9254000" />
+      <workItem from="1581298301620" duration="12429000" />
+      <workItem from="1581905184679" duration="119000" />
+      <workItem from="1581905360366" duration="68000" />
+      <workItem from="1581905460096" duration="8080000" />
+      <workItem from="1581988611913" duration="645000" />
+      <workItem from="1582020515616" duration="14820000" />
+      <workItem from="1582083746959" duration="14910000" />
+      <workItem from="1582165397114" duration="6663000" />
+      <workItem from="1582253934594" duration="12341000" />
+      <workItem from="1582511788581" duration="3183000" />
+      <workItem from="1583030786679" duration="14555000" />
+      <workItem from="1583119159787" duration="17496000" />
+      <workItem from="1583217931681" duration="7211000" />
+      <workItem from="1583281460092" duration="6234000" />
+      <workItem from="1583383674921" duration="4286000" />
+      <workItem from="1583457939961" duration="3508000" />
+      <workItem from="1583463182863" duration="8542000" />
+      <workItem from="1583730920452" duration="8679000" />
+      <workItem from="1583806814132" duration="4725000" />
+      <workItem from="1583917591848" duration="4851000" />
+      <workItem from="1583977895463" duration="606000" />
+      <workItem from="1583984537889" duration="3304000" />
+      <workItem from="1584073192789" duration="5320000" />
+      <workItem from="1584250827680" duration="1260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="358021000" />
+    <option name="totallyTimeSpent" value="554243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -642,26 +850,26 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20189275" sideWeight="0.5087848" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.400982" sideWeight="0.49121523" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.032733224" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3125" sideWeight="0.49121523" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65789473" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30937973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2806354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22861843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.090016365" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3256579" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -691,6 +899,24 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo7.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo7.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/lf2020/m2/f07/IODemo7.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/org/lf2019/lf1118/lf1118.java</url>
           <line>51</line>
@@ -707,361 +933,389 @@
           </properties>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1.java</url>
+          <line>9</line>
+          <properties field="count" class="org.lf2020.m3.d01.ThreadDemo1" />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="69" />
+      <option name="time" value="89" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1118/ArrayRanking.java">
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m2/f19/IO其他流的学习">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="412">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1118/lf1118.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="321">
+          <caret line="386" column="21" lean-forward="false" selection-start-line="386" selection-start-column="21" selection-end-line="386" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1118/newcalss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1118/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f02/RandomTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f02/sortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="224" column="14" lean-forward="false" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5751">
-          <caret line="239" column="6" lean-forward="false" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="97" column="3" lean-forward="false" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14310">
-          <caret line="570" column="33" lean-forward="false" selection-start-line="570" selection-start-column="33" selection-end-line="570" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/TreeMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/TreeSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f02/JDK5新特性">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/mapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/TreeSetReviewTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/MapDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/GetRandomTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/HashMapDemo0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="19" column="41" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/TreeMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="70" column="19" lean-forward="false" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/集合框架-map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/集合框架-Set">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f03/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4779">
-          <caret line="215" column="46" lean-forward="false" selection-start-line="215" selection-start-column="46" selection-end-line="215" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f06/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15606">
-          <caret line="624" column="12" lean-forward="false" selection-start-line="624" selection-start-column="12" selection-end-line="624" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f0107.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f0107/Application2.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f07/Application1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f08/MapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f08/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f08/ClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f09.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1230/集合框架-List">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1226/集合框架3-List">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1225/集合框架2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1221/集合框架">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2019/lf1216/日期类型">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f10.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f09/集合框架-后期知识点">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f09/HHaassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="93" lean-forward="false" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f10/Collections类">
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/ST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/Thread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/Thread01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d03/TimerDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m2/f06/Filel类的学习">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d03/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d04/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d03/设计模式">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d04/GUIDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d06/UIDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d06/UIDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d04/GUI">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f10/SortDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m2/f24/多线程-2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/SaleTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d02/PersonalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/MyRunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d01/ThreadDemo1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m2/f21/多线程.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2349">
+          <caret line="87" column="39" lean-forward="false" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34641">
+          <caret line="1358" column="0" lean-forward="false" selection-start-line="1358" selection-start-column="0" selection-end-line="1358" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d07/ErrorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d07/InfoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="36" lean-forward="false" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d05/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="65" lean-forward="false" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d07/ExeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d07/test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d07/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d07/RTDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javafx/jfx1207/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d11/InetAddressDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d12/UDPSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="75" lean-forward="true" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="562" column="11" lean-forward="true" selection-start-line="562" selection-start-column="11" selection-end-line="562" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_172/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="87" column="66" lean-forward="true" selection-start-line="87" selection-start-column="66" selection-end-line="87" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d13/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d12/UDPReceive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d11/网络编程.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d13/Recever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f15/ExceptionDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/org/lf2020/m3/d13/Sender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f15/Exception">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f16/异常处理2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/lf2020/January/f16/ExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,29 @@
+File
+1.创建功能
+    a.public boolean mkdir()
+        创建此抽象路径名指定的文件夹
+    b.public boolean mkdirs()
+        创建此抽象路径名指定的目录，包括所有必需但不存在的父目录。
+        **此方法只能创建出文件夹,创建文件只能使用createNewFile()**
+    c.public boolean createNewFile()
+        创建此抽象路径名指定的文件
+2.删除功能
+    public boolean delete()删除此抽象路径名表示的文件或目录(目录下不能有文件或文件夹,否则将删除失败)
+3.重命名
+    renameTo(File dest) (可以重命名为不同路径下的文件)
+4.判断功能
+    public boolean isDirectory()判断是否是目录
+    public boolean isFile()判断是否是文件
+    public boolean exists()判断是否存在
+    public boolean canRead()判断是否可读
+    public boolean canWrite()判断是否可写
+    public boolean isHidden()判断是否隐藏
+5.获取功能
+    public String getAbsolutePath()获取绝对路径
+    public String getPath()获取文件初始化的抽象路径字符串(若初始化的抽象路径为绝对路径,获取绝对路径,若是相对路径,获取相对路径)
+    public String getName()获取名称
+    public long length()获取长度(字节数)
+    public long lastModified()获取最后一次修改时间
+6.高级获取功能
+    public String list()  返回一个字符串数组，这些字符串指定当前对应目录中的文件和目录。
+    public File[] listFiles() 返回一个抽象路径名数组，这些路径名表示当前对应目录中的文件。

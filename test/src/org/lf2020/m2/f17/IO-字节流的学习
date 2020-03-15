@@ -1,0 +1,60 @@
+字节流
+1.由于字节流操作中文不是很方便,所以java就提供了字符流.
+2.字符流=字节流+编码表
+3.编码表:将各个国家的文字用数字表示,一一对应,形成一张表.
+    ASCII:美国标准信息交换码
+          用一个字节的7位表示
+    ISO8859-1:拉丁码表,欧洲码表.
+          用一个字节的8位表示
+    GB2312:中文码表
+    GBK:中国的中文码表升级,融入了更多的中文文字符号
+    GB18030:GBK的取代版本\
+    BIG-5码:通行于台湾香港地区的一个繁体字编码方案,俗称"大五码"
+    Unicode:国际标准码,融合了多种文字
+          所有文字都用两个字节表示,Java语言使用的就是Unicode
+    UTF-8:最多用3个字节表示一个字符(ASCII兼容)
+          自动使用可表示文字的最小字节数
+4.OutputStreamWriter
+    (1)构造方法(底层封装了字节流)
+        OutputStreamWriter(OutputStream out)创建使用默认字符编码的 OutputStreamWriter。
+        OutputStreamWriter(OutputStream out, String charsetName) 创建使用指定字符集的 OutputStreamWriter。
+    (2)write方法
+        public void write(char c)
+        public void write(char[] cbuf)
+        public void write(char[] cbuf,int off,int len)
+        public void write(String str)
+        public void write(String str,int off,int len)
+    (3)特殊方法
+        public void flush() 刷新该流的缓冲。 写入文件中.与字节流不同字符输入流在write后必须flush()才会把缓冲区中的数据写入文件中,
+        public void close() 关闭流对象,但要先刷新一次缓冲区,关闭后,流对象无法继续使用
+
+5.InputStreamReader
+    (1)构造方法
+        InputStreamReader(InputStream in) 创建一个使用默认字符集的 InputStreamReader。
+        InputStreamReader(InputStream in, String charsetName) 创建使用指定字符集的 InputStreamReader。
+6.FileReader,FileWriter
+    字符流的便捷类,继承了InputStreamReader,OutputStreamWriter,提供了新构造方法,采用本地默认编码,并且更简洁
+    构造方法摘要
+    FileWriter(File file)
+    FileWriter(File file, boolean append)
+    FileWriter(String fileName)
+    FileWriter(String fileName, boolean append)
+7.字节缓冲流
+    A.BufferedWriter
+        a.将文本写入字符输出流，缓冲各个字符，从而提供单个字符、数组和字符串的高效写入。
+        b.构造方法:
+            BufferedWriter(Writer out)
+            BufferedWriter(Writer out, int sz)
+        c.新方法
+            public void newLine()
+    A.BufferedReader
+        a.从字符输入流中读取文本，缓冲各个字符，从而实现字符、数组和行的高效读取。
+        b.构造方法:
+            BufferedReader(Reader in)
+            BufferedReader(Reader in, int sz)
+        c.新方法
+             String readLine() 读取一个文本行。包含该行内容的字符串，不包含任何行终止符，如果已到达流末尾，则返回 null
+
+
+
+

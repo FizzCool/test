@@ -17,7 +17,7 @@ public class JDBCTEST {
             Class.forName("com.mysql.cj.jdbc.Driver");
             try {
                 long start = System.currentTimeMillis();
-                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/test?serverTimezone=UTC&characterEncoding=utf-8&rewriteBatchedStatements=true","root","thelasttime");
+                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/Test?serverTimezone=UTC&characterEncoding=utf-8&rewriteBatchedStatements=true","root","thelasttime");
                 /*Statement stmt =conn.createStatement();
                 String sql = "insert into stu(name,age) values('张子愚',22)";
                 stmt.execute(sql);*/

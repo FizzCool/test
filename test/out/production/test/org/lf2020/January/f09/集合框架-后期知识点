@@ -1,5 +1,0 @@
-1.HashMap和Hashtable的区别
- HashMap的API上描述:除了非同步和允许使用 null 之外，HashMap 类与 Hashtable 大致相同。
- Hashtable是JDK1.0就出现的类,命名上不并规范,不要记错.因为其是线程安全的,所以效率低.HashMap的出
- 现一定程度是为了代替Hashtable
-2.

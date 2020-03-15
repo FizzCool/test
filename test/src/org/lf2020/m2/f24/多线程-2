@@ -1,0 +1,7 @@
+多线程
+    Thread
+        线程休眠
+        static void sleep(long millis) 在指定的毫秒数内让当前正在执行的线程休眠（暂停执行）
+        线程加入
+         void join() 等待该线程终止。 (直到此线程结束,才能继续进行其他线程的执行)
+         void join(long millis) 等待该线程终止的时间最长为 millis 毫秒。

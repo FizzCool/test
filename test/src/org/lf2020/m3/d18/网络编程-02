@@ -1,0 +1,65 @@
+1.UDP
+    (1)发送端
+        //1.创建DatagramSocket
+        DatagramSocket ds = new DatagramSocket();
+        //2.创建数据包DatagramPacket并初始化数据、数据长度、InetAddress、端口号
+        InetAddress ip = InetAddress.getByName("192.168.2.219");
+        byte[] bytes = "Hello".getBytes();
+        int len = bytes.length;
+        DatagramPacket dp = new DatagramPacket(bytes, len, ip, 10010);
+        //3.发送数据包
+        ds.send(dp);
+        //4.释放资源
+        ds.close();
+    (2)接收端
+        //1.创建DatagramSocket对象
+        DatagramSocket ds = new DatagramSocket(10010);
+        //2.创建接收数据的数据包
+        byte[] bytes = new byte[1024];
+        DatagramPacket dp = new DatagramPacket(bytes, bytes.length);
+        //3.接收数据并处理
+        ds.receive(dp);
+        String ip = dp.getAddress().getHostAddress();//获取发送端的ip
+        String message = new String(dp.getData(), 0, dp.getLength());//获取数据
+        System.out.println(ip + ":" + message);
+        //4.释放资源
+        ds.close();
+    (3)总结
+        1.UDP作为不可靠连接靠数据包传递数据，没有接收端也可以发送数据
+        2.UDP发送端配置信息(ip、端口号)是配置在数据包上的
+        3.接收端的配置信息(端口号)配置在Socket上
+2.TCP
+    (1)客户端
+        //1.创建Socket对象
+        Socket socket = new Socket("192.168.2.219",10002);
+        //2.获取输出流，写入数据
+        OutputStream os =socket.getOutputStream();
+        os.write("Hello Server".getBytes());
+        //3.接收返回信息（可选操作）
+        InputStream is = socket.getInputStream();
+        byte[] bys = new byte[1024];
+        int len = is.read(bys);
+        System.out.println(new String(bys,0,len));
+        //4.释放资源
+        socket.close();
+    (2)服务器端
+        //1.创建ServerSocket对象
+        ServerSocket serverSocket = new ServerSocket(10002);
+        //2.监听客户端连接，返回一个Socket对象
+        Socket socket = serverSocket.accept();
+        //3.获取输入流，处理接收到的数据
+        InputStream is = socket.getInputStream();
+        byte[] bys = new byte[1024];
+        int len = is.read(bys);
+        System.out.println(new String(bys,0,len));
+        //4.获取输出流，写入返回信息
+        OutputStream os = socket.getOutputStream();
+        os.write("Received".getBytes());
+        //5.释放资源
+        socket.close();
+    (3)总结
+        1.TCP作为可靠连接，通过建立连接通道传递数据，必须有对应接收端才可以建立连接，发送数据
+        2.TCP发送端配置信息(ip、端口号)是配置在Socket上的
+        3.Socket提供了
+        shutdownOutput() 禁用此套接字的输出流。
+        来结束通道的输出流。以通知服务器端数据传输已到达末尾。

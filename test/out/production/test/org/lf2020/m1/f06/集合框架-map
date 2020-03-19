@@ -1,0 +1,20 @@
+Map
+ --将键映射到值的对象。一个映射不能包含重复的键；每个键最多只能映射到一个值。
+ 底层依赖于哈希表去重,具体依赖于hashCode(),和equals().
+ 由于是底层存储是由<key,value>这样的结构,所以Map相较于其他集合多了以下基本功能
+  1.Set<Map.Entry<K,V>> entrySet()
+    返回此映射中包含映射关系的Set视图(也就是返回一个由Map<K,V>组成的Set集合)
+  2.Set<K> keySet()
+    返回Map中所有的Key组成的一个Set集合
+  3.Collection<T> values()
+    返回Map中所有Value组成的一个Collection集合
+
+Map的常用实现类
+ 1.HashMap
+ Map的实现子类,无序且key不重复
+
+ 2.LinkedHashMap
+ HashMap的实现子类,底层由链表保证有序性,所以是有序的HashMap
+
+ 3.TreeMap
+ key的去重和自然排序

@@ -1,0 +1,17 @@
+Properties
+    一个特殊的类,提供了集合与流的结合使用方法
+    其父类是HashTable,所以Properties本质是一个类似HashMap的集合
+    A.构造方法
+        Properties()
+    B.成员方法
+        String getProperty(String key) 用指定的键在此属性列表中搜索属性。
+        Object setProperty(String key, String value)  调用 Hashtable 的方法 put。
+        Set<String> stringPropertyNames() 返回此属性列表中的键集 (类似于特殊的keySet)
+    C.特殊的成员方法
+         void load(InputStream inStream) 加载字节流中的键值对数据到此集合对象中
+         void load(Reader reader)加载字符流中的键值对数据到此集合对象中
+         void store(OutputStream out, String comments) 将此Properties中的键值对以Key=Value的格式写入此字节输出流中
+         void store(Writer writer, String comments)将此Properties中的键值对以Key=Value的格式写入此字符输出流中
+
+
+

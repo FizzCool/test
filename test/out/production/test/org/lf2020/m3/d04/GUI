@@ -1,0 +1,13 @@
+GUI
+    1.GUI
+        Graphical User Interface 图形用户接口
+    2.java.awt
+        Abstract Windows ToolKit 抽象窗口工具包,需要调用本地方法实现功能.属于重量级控件.
+    3.java.swing
+        在AWT的基础上,建立的一套图形界面系统,其中提供了更多的组件,而且完全由java实现.增强了移植性,属轻量级控件.
+    4.Frame类
+        (1)概述:Frame 是带有标题和边框的顶层窗口
+        (2)常用构造方法:
+            Frame() 构造一个最初不可见的 Frame 新实例（）
+            Frame(String title) 构造一个新的、最初不可见的、具有指定标题的 Frame 对象。
+        (3)常用成员方法

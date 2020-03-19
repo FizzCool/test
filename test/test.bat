@@ -1,4 +1,3 @@
-@echo off
-echo hello
+@echo offecho hello
 echo world
 echo java

@@ -1,0 +1,60 @@
+1.操作基本数据的流
+    DataInputStream
+    DataOutputStream
+    用于在文本中读写基本数据
+2.内存操作流
+    用于在内存中临时存储信息,程序结束,数据就从内存中消失
+    A.操作字节数组
+        ByteArrayInputStream
+        ByteArrayOutputStream
+    B.操作字符数组
+        CharArrayReader
+        CharArrayWriter
+    C.操作字符串
+        StringReader
+        StringWriter
+3.打印流
+    PrintStream 字节打印流
+    PrintWriter 字符打印流
+    打印流的特点:
+        A:只有写数据的,没有读数据的,只能操作目的地,不能操作数据源.
+        B:可以操作任意类型数据
+        C:如果启动了自动刷新,能够自动刷新
+        D:改流是可以直接操作文本文件的
+    流:
+        基本流:可以直接操作文本文件
+        高级流:在基本流基础上提供了一些其他功能
+4.随机访问流
+    RandomAccessFile类不属于流,而是Object的子类,但它融合了InputStream和OutputStream的功能,支持对文件的
+    随机访问读取和写入
+    构造方法
+        RandomAccessFile(File file, String mode)
+        RandomAccessFile(String name, String mode)
+        第一个参数是文件或文件路径,第二个参数是操作文件的模式,模式有4种,最常用的是rw,表示可读可写
+5.合并流
+    SequenceInputStream 表示其他输入流的逻辑串联。它从输入流的有序集合开始，并从第一个输入流开始读取，
+    直到到达文件末尾，接着从第二个输入流读取，依次类推，直到到达包含的最后一个输入流的文件末尾为止。
+    构造方法:
+        SequenceInputStream(InputStream s1, InputStream s2)
+        SequenceInputStream(Enumeration<? extends InputStream> e)
+6.ObjectOutputStream
+    序列化流:把对象按照流一样的方式存入文本文件或在网络中传输
+    A.构造方法
+        ObjectOutputStream(OutputStream out)
+    B.特殊成员方法
+        void writeObject(Object obj) 将指定的对象写入 ObjectOutputStream。
+        **参数对象的类必须实现序列化接口,否则无法传参**
+    C.public interface Serializable
+        (a)类通过实现 java.io.Serializable 接口以启用其序列化功能。未实现此接口的类将无法使其任何状态序
+        列化或反序列化。可序列化类的所有子类型本身都是可序列化的。序列化接口没有方法或字段，仅用于标
+        识可序列化的语义。
+        (b)实现序列化的类最好选择自动生成一个序列化ID,否则,在类的内容发生变化时,其序列化ID会随之改变,
+        引起异常
+        (c)在一个类的诸多成员变量中,有的不被期望序列化,即不希望其值的传输,怎么办呢?
+            使用transient关键字修饰即可
+7.ObjectInputStream
+     反序列化流:把文本文件或网络中的流对象数据还原成对象
+
+
+
+

@@ -1,0 +1,8 @@
+字节缓冲IO流继承于字节IO流并增加了缓冲区,这使得它可以一次读写多个字节,因此有着更高的效率.
+3.BufferedInputStream
+    BufferedInputStream(InputStream in)
+    BufferedInputStream(InputStream in, int size) 用的很少,创建具有指定缓冲区大小的 BufferedInputStream
+
+4.BufferedOutputStream
+    BufferedOutputStream(OutputStream out)
+在使用方法上和FileInputStream,FileOutputStream类似,但效率更高.
